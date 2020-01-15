@@ -1,7 +1,7 @@
 {
   "jobDetails": [
     { 
-                'id': '1', 
+                "id": "1", 
                 'title': 'Add new services', 
                 'jobNumber': '2899042',
                 'address1': '123 Main street',
