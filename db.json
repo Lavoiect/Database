@@ -8,14 +8,13 @@
                 "address2": "St. Louis, MO 32256",
                 "time": "8:00 - 10:00 AM", 
                 "eta": "1",
-
                 "createdOn": "1/11/17 8:03 AM",
                 "workOrder": "645632454657",
                 "orderSource": "ICOMS:",
                 "fullfilmentCenter": "South Carolina",
                 "customerName": "Micheal Haun", 
                 "account": "74839182',
-                "phone": "(987)234-1254 "
+                "phone": "(987)234-1254",
     },
                 {
                 "id": "2", 
