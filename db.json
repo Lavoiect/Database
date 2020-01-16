@@ -1,7 +1,7 @@
 {
     "jobDetails": [
       { 
-                  "id": 1, 
+                  "id": "1", 
                   "title": "Add new services", 
                   "jobNumber": "2899042",
                   "address1": "123 Main street",
@@ -17,7 +17,7 @@
                   "phone": "(987)234-1254"
       },
                   {
-                  "id": 2, 
+                  "id": "2", 
                   "title": "Add new services", 
                   "jobNumber": "16516515",
                   "address1": "123 Main street",
