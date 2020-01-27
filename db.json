@@ -14,7 +14,9 @@
                   "fullfilmentCenter": "South Carolina",
                   "customerName": "Micheal Haun", 
                   "account": "74839182",
-                  "phone": "(987)234-1254"
+                  "phone": "(987)234-1254",
+                   "deviceName": "Arixxis",
+          "deviceNumber": "001"
       },
                   {
                   "id": "2", 
