@@ -17,13 +17,11 @@
                   "phone": "(987)234-1254",
                   "deviceName": "Motorola AX43256",
                   "deviceNumber": "0015964EA2F0",
-                  "deviceType": "Voice"
-          
-                 
+                  "deviceType": "Voice"          
       },
                   {
                   "id": "2", 
-                  "title": "Add new services", 
+                  "title": "Troubleshoot", 
                   "jobNumber": "2899042",
                   "address1": "123 Main street",
                   "address2": "St. Louis, MO 32256",
@@ -36,38 +34,6 @@
                   "customerName": "Micheal Haun", 
                   "account": "74839182",
                   "phone": "(987)234-1254 "
-                  },
-                  {
-                    "id": "3", 
-                    "title": "Add new services", 
-                    "jobNumber": "2899042",
-                    "address1": "123 Main street",
-                    "address2": "St. Louis, MO 32256",
-                    "time": "10:00 - 12:00 AM", 
-                    "eta": "1",
-                    "createdOn": "1/11/17 8:03 AM",
-                    "workOrder": "645632454657",
-                    "orderSource": "ICOMS:",
-                    "fullfilmentCenter": "South Carolina",
-                    "customerName": "Micheal Haun", 
-                    "account": "74839182",
-                    "phone": "(987)234-1254 "
-                    },
-                    {
-                      "id": "4", 
-                      "title": "TroubleShooting", 
-                      "jobNumber": "48364842",
-                      "address1": "894 Main street",
-                      "address2": "St. Louis, MO 32256",
-                      "time": "1:00 - 2:00 AM", 
-                      "eta": "56",
-                      "createdOn": "1/11/17 8:03 AM",
-                      "workOrder": "645632454657",
-                      "orderSource": "ICOMS:",
-                      "fullfilmentCenter": "South Carolina",
-                      "customerName": "John Doe", 
-                      "account": "16579856",
-                      "phone": "(987)234-1254 "
-                      }
+                  }
     ]
   }
